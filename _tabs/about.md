@@ -23,6 +23,8 @@ Learning Focus:
  
 I'm looking for an entry-level SOC Analyst or Cybersecurity Analyst position where I can monitor, investigate, and respond to security incidents, keep growing in the field, and add value to the team.
 
+Check out my full **[Resume & Current Status](/resume/)** here.
+
 Contact: 
 
 eng.ahmed.tarek2026@gmail.com
