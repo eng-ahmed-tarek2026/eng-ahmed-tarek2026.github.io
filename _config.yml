@@ -16,7 +16,7 @@ timezone:
 
 title: Ahmed Tarek | Security Blog # the main title
 
-tagline: Aspiring SOC Analyst (L1) | Threat Detection | SIEM | Log Analysis | Security Automation # it will display as the subtitle
+tagline: SOC Analyst (L1) | Threat Detection | SIEM | Log Analysis # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Technical write-ups, lab walkthroughs, and notes on SOC Analysis, Threat Detection, | Log Analysis, and Network Security.
@@ -99,7 +99,8 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://githubusercontent.com"
+
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
