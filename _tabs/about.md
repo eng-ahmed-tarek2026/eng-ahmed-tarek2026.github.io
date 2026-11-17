@@ -11,7 +11,7 @@ Beyond the technical side, I manage tasks effectively, write structured technica
 
 For my graduation project, I worked on a Web Penetration Testing Platform, which gave me strong practical insights into web application vulnerabilities, automated security testing, and system analysis.
 
-Learning Focus:
+### Learning Focus:
 
 • Security Operations Center tasks and monitoring
 
@@ -23,10 +23,12 @@ Learning Focus:
  
 I'm looking for an entry-level SOC Analyst or Cybersecurity Analyst position where I can monitor, investigate, and respond to security incidents, keep growing in the field, and add value to the team.
 
-Check out my full **[Resume & Current Status](/resume/)** here.
+Check out my **[Resume & Current Status.](/resume/)** 
 
-Contact: 
+### Contact
 
-eng.ahmed.tarek2026@gmail.com
+- **Email:** [eng.ahmed.tarek2026@gmail.com](mailto:eng.ahmed.tarek2026@gmail.com)
 
-www.linkedin.com/in/eng-ahmed-tarek2026
+- **LinkedIn:** [linkedin.com/in/eng-ahmed-tarek2026](https://www.linkedin.com/in/eng-ahmed-tarek2026)
+
+
